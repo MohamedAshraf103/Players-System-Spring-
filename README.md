@@ -19,3 +19,9 @@ The Players System leverages the power of Spring Core and Spring MVC frameworks 
 The user interface is built using JSP (JavaServer Pages), which allows for dynamic content generation and easy integration with server-side Java code. JSP pages are responsible for rendering the views and interacting with the user through forms and input fields.
 
 The MySQL database serves as the persistent storage for player data, ensuring data integrity and providing efficient retrieval and storage mechanisms.
+
+## Prerequisites
+
+- Java Development Kit (JDK) version 8 or above
+- Apache Tomcat server
+- MySQL database
